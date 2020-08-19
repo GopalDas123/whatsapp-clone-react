@@ -1,0 +1,12 @@
+.chat_cont{
+    display: flex;
+    padding: 16px;
+    cursor: pointer;
+    border-bottom: lightgray solid 1px;
+}
+.chat_cont:hover{
+    background-color: #ebebeb;
+}
+.chat_info>h3,p{
+margin-left: 15px;
+}
